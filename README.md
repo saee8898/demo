@@ -1,3 +1,3 @@
 # demo
 mini project for agile practical
-team memebers
+practical is very easy to do.
