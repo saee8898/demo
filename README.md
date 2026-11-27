@@ -20,6 +20,7 @@
 
 ## User Stories
 US1- As a Student, I want to Register on the System so that i can participate in activities
+US2- As a student, I want to login securely So that my data remains protected
 
 ## Acceptance Criteria
 -Given the is on the registration page
